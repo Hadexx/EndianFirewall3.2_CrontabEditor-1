@@ -5,7 +5,7 @@ Addon Crontab Editor for Endian Firewall Community 3.2.x.
 Versão:
 --------
 
-v.1.0 ( Testados no Endian Firewall Community nas versões 3.2.1, 3.2.2 e 3.2.4).
+v.1.0 ( Testado no Endian Firewall Community nas versões 3.2.1, 3.2.2 e 3.2.4).
 
 
 

@@ -41,7 +41,7 @@ Outras informações:
 
 - Para acessar o editor é necessario logar no painel de controle do Endian Firewall, ir no menu "Serviços" => "Editor do Crontab", adicione o agendamento no campo em branco e pressionar salvar.
 
-Observações: O editar não suporta espaço entre as linhas (recomendo usar # para gerar estes espaços) e ao clicar em salvar o serviço do crontab é reiniciado automaticamente para salvar o novo agendamento.
+Observações: O editor não suporta espaço entre as linhas (recomendo usar # para gerar estes espaços) e ao clicar em salvar o serviço do crontab é reiniciado automaticamente para salvar o novo agendamento.
 
 Espero ter ajudado.
 

@@ -20,29 +20,19 @@ Instalando o Pacote:
 
 Realizando Download:
 
-    curl -Lo lightsquid-endian3-2.0-1.x86_64.rpm https://raw.githubusercontent.com/brunoalmeida33/EndianFirewall3.2_Lightsquid/master/lightsquid-endian3-2.0-1.x86_64.rpm
+    curl -Lo croneditor-endian3-1.0-1.x86_64.rpm https://github.com/brunoalmeida33/EndianFirewall3.2_ContrabEditor/raw/master/croneditor-endian3-1.0-1.x86_64.rpm
     
     
 Executando a instalação:
 
-    rpm -Uvh lightsquid-endian3-2.0-1.x86_64.rpm
+    rpm -Uvh croneditor-endian3-1.0-1.x86_64.rpm
     
-Definindo uma senha para o usuario lighsquid:
-
-- Execute o script no console ssh: /usr/local/bin/lightsquid-password.sh ou lightsquid-password.sh. 
-- Digite a senha a ser utilizada para acessar os relatorios e pressione ENTER.
-
-Acesso direto aos relatorios:
-
-Link: https://YOUENDIANGREENIP:10443/lightsquid   (Ex: https://192.168.0.15:10443/lightsquid )
-
-Logue com o usuario lightsquid e forneça a senha configurada no passo anterior (scripts de senha).
 
 Removendo o pacote:
 --------
 - No console ssh digite:
 
-    rpm -e lightsquid-endian3
+    rpm -e croneditor-endian3
     
     
     

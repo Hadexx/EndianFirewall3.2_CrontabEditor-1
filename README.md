@@ -39,9 +39,9 @@ Removendo o pacote:
 Outras informações:
 ------------------
 
-- Esta instalação nao afeta o funcionamento dos relatorios nativo do Endian Firewall (SARG), não é necessario a remoção do mesmo.
-- Para ativar este relatorio do lightsquid, é preciso selecionar a check box "Ativar Lightsquid" e clicar em "Salvar" no painel de controle do Endian, no menu  "Registros e relatorios" -> "Proxy" -> "Relatorio HTTP".
-- Os relatorios serão gerados automaticamente a cada dia.
+- Para acessar o editor é necessario logar no painel de controle do Endian Firewall, ir no menu "Serviços" => "Editor do Crontab", adicione o agendamento no campo em branco e pressionar salvar.
+
+Observações: O editar não suporta espaço entre as linhas (recomendo usar # para gerar estes espaços) e ao clicar em salvar o serviço do crontab é reiniciado automaticamente para salvar o novo agendamento.
 
 Espero ter ajudado.
 

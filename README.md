@@ -1,4 +1,4 @@
-# EndianFirewall3.2_ContrabEditor
+# EndianFirewall3.2_ContabEditor
 Addon Crontab Editor for Endian Firewall Community 3.2.x. 
 
 
